@@ -1,1 +1,4 @@
-[![shoppinglist-shaharshemesh](https://img.youtube.com/vi/3CycNqNE7f0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3CycNqNE7f0)
+
+
+https://github.com/shahar-shemesh/shoppinglist-project/assets/62644579/458fd251-85ab-42a2-bee8-b4ad6384f730
+
