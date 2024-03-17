@@ -1,10 +1,6 @@
 # Shopping List To API
 
-Welcome to Shopping List To API, an application designed for creating shopping lists and seamlessly storing them in a SQL database. This project aims to streamline the process of managing shopping lists, offering users an intuitive interface for creating, editing, and storing their lists securely.
-
-## Purpose
-
-Shopping List To API serves as a comprehensive platform for users to manage their shopping lists efficiently. With its user-friendly interface and robust backend infrastructure, users can create, update, and store their lists in a SQL database, ensuring easy access and synchronization across devices.
+Shopping List To API serves as a comprehensive platform for users to manage their shopping lists efficiently. Users can create, update, and store their lists in a SQL database, ensuring easy access and synchronization across devices.
 
 ## Technologies Used
 
